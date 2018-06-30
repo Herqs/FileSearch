@@ -1,0 +1,20 @@
+C:\Users\Herqs\source\repos\multi 01\multi 01\bin\Debug\multi 01.exe.config
+C:\Users\Herqs\source\repos\multi 01\multi 01\bin\Debug\multi 01.exe
+C:\Users\Herqs\source\repos\multi 01\multi 01\bin\Debug\multi 01.pdb
+C:\Users\Herqs\source\repos\multi 01\multi 01\obj\Debug\multi 01.csprojResolveAssemblyReference.cache
+C:\Users\Herqs\source\repos\multi 01\multi 01\obj\Debug\multi_01.Form1.resources
+C:\Users\Herqs\source\repos\multi 01\multi 01\obj\Debug\multi_01.Properties.Resources.resources
+C:\Users\Herqs\source\repos\multi 01\multi 01\obj\Debug\multi 01.csproj.GenerateResource.Cache
+C:\Users\Herqs\source\repos\multi 01\multi 01\obj\Debug\multi 01.csproj.CoreCompileInputs.cache
+C:\Users\Herqs\source\repos\multi 01\multi 01\obj\Debug\multi 01.exe
+C:\Users\Herqs\source\repos\multi 01\multi 01\obj\Debug\multi 01.pdb
+D:\B\repos\multi 01\multi 01\bin\Debug\multi 01.exe.config
+D:\B\repos\multi 01\multi 01\bin\Debug\multi 01.exe
+D:\B\repos\multi 01\multi 01\bin\Debug\multi 01.pdb
+D:\B\repos\multi 01\multi 01\obj\Debug\multi 01.csprojAssemblyReference.cache
+D:\B\repos\multi 01\multi 01\obj\Debug\multi_01.Form1.resources
+D:\B\repos\multi 01\multi 01\obj\Debug\multi_01.Properties.Resources.resources
+D:\B\repos\multi 01\multi 01\obj\Debug\multi 01.csproj.GenerateResource.cache
+D:\B\repos\multi 01\multi 01\obj\Debug\multi 01.csproj.CoreCompileInputs.cache
+D:\B\repos\multi 01\multi 01\obj\Debug\multi 01.exe
+D:\B\repos\multi 01\multi 01\obj\Debug\multi 01.pdb
